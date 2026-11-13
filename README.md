@@ -1,4 +1,24 @@
-## Hi there 👋
+# Houssem Eddine Baatouche
+
+---
+
+## About
+
+I study and work in mechatronics, and I learn across other fields alongside it. I like helping people when I can.
+
+## Goal
+
+I want to bring meaningful change to my field.
+
+## Focus Areas
+
+- Mechatronics and Robotics
+- Electronics and Embedded Systems
+- Programming and Automation
+
+## Contact
+
+📧 baatouchehoussemeddine@gmail.com
 
 <!--
 **baatouchehoussem/baatouchehoussem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
