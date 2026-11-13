@@ -4,7 +4,7 @@
 
 ## About
 
-I study and work in mechatronics, and I learn across other fields alongside it. I like helping people when I can.
+I study and work in mechatronics, polymath, and I learn across other fields alongside it. I like helping people when I can.
 
 ## Goal
 
