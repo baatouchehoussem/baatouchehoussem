@@ -1,36 +1,34 @@
-# Houssem Eddine Baatouche
+# Houssem Baatouch
+
+**Software Engineer & Aerospace Systems Builder** · Founder of **Castle Gates** · Social Sciences Undergraduate, Univ-Alger 2
 
 ---
 
-## About
+## Core Stack
 
-I study and work in mechatronics, polymath, and I learn across other fields alongside it. I like helping people when I can.
+`Python` · `FastAPI` · `JavaScript` · `CesiumJS` · `Linux` · `Git` · `SQLite` · `Docker`
 
-## Goal
+---
 
-I want to bring meaningful change to my field.
+## Featured Projects
 
-## Focus Areas
+### [Vetorbit](https://github.com/baatouchehoussem/Vetorbit)
+**Deterministic Spacecraft Command Safety Kernel & Conjunction Avoidance Sandbox**  
+Flight-software-grade guardrails between autonomous AI planners and spacecraft hardware. Live ISS telemetry sync (wheretheiss.at), procedural Earth orbital radar, SQLite blackbox ledger, frosted-glass Mission Control UI.  
+`Python` `FastAPI` `WebSocket` `Orbital Mechanics` `Deterministic Safety`  
+![Tests](https://img.shields.io/badge/tests-57%20passing-brightgreen) ![License](https://img.shields.io/badge/license-AGPL--3.0-orange)
 
-- Mechatronics and Robotics
-- Electronics and Embedded Systems
-- Programming and Automation
+### [Interplanetary Survival Guide: Martian Map](https://github.com/baatouchehoussem/Interplanetary-Survival-Guide)
+**2026 NASA Space Apps Challenge** — Interactive 3D Martian EVA navigation prototype. CesiumJS globe with terrain, habitat waypoints, life-support consumables tracking, and real-time dust-storm overlay.  
+`JavaScript` `CesiumJS` `WebGL` `Space Apps Challenge`
 
-## Contact
+### [Castle Gates](https://github.com/baatouchehoussem/Castle-Gates)
+**Digital agency** engineering automated WhatsApp booking platforms for hospitality & service SMEs. End-to-end: Twilio WhatsApp Business API, FastAPI backend, PostgreSQL, Docker Compose deploy.  
+`Python` `FastAPI` `Twilio` `PostgreSQL` `Docker`
 
-📧 baatouchehoussemeddine@gmail.com
+---
 
-<!--
-**baatouchehoussem/baatouchehoussem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [@baatouchehoussem](https://github.com/baatouchehoussem)
+- Email: baatouchehoussemeddine@gmail.com
